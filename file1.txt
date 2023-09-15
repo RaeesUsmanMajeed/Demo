@@ -10,5 +10,10 @@ This line also create feature2
 This line is also represent feature2
 
 
+This line is feature3
+This line also represent feature3
+This line is another feature3
+
 This line represent feature4
 This line is also feature4
+
