@@ -12,3 +12,4 @@ This line is also represent feature2
 
 This line is feature3
 This line also represent feature3
+This line is another feature3
